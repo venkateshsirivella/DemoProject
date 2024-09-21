@@ -9,7 +9,7 @@
     font-family: "Montserrat", sans-serif;
   }
   nav{
-    background: #124a78;
+    background: #175588;
     height: 80px;
     width: 100%;
   }
@@ -40,6 +40,10 @@
     background: #1b9bff;
     transition: .5s;
   }
+#deco{
+  text-decoration: none;
+  color: white;
+}
   .checkbtn{
     font-size: 30px;
     color: white;

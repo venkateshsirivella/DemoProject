@@ -1,12 +1,11 @@
 import React from 'react'
-import Navigation from './Navigation'
-import Footer from './Footer'
+import Homepage from './Homepage'
+
 
 function Home() {
   return (
-    <div>
-        <Navigation/>
-        <Footer/>
+    <div style={{height:'500px',width:'100vw'}}>
+      <Homepage/>
     </div>
   )
 }

@@ -1,0 +1,8 @@
+#imgcontainer{
+    /* border: 2px solid red; */
+    height: 30rem;
+}
+.img{
+    height: 100%;
+    width: 100%;
+}
